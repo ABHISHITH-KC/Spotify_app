@@ -1,0 +1,33 @@
+name: spotify_final_project
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  carousel_slider: ^5.0.0
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  provider: ^6.1.2
+  youtube_player_flutter: ^9.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+provider: ^6.1.2
+  
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/Vector (1).png
+   - assets\wp4780558-billie-eilish-glasses-wallpapers 1 (1).png
+   - assets\wp5809281-billie-eilish-green-hair-wallpapers 1.png
+   - assets\15mag-billie-03-master675-v3 1.png
+   - assets\Union.png
+   - assets\Union (1).png
+   - assets\Rectangle 8.png
